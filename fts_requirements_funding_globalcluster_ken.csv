@@ -1,0 +1,189 @@
+countryCode,id,name,code,startDate,endDate,year,clusterCode,cluster,requirements,funding,percentFunded
+#country+code,#activity+appeal+id+fts_internal,#activity+appeal+name,#activity+appeal+id+external,#date+start,#date+end,#date+year,#sector+cluster+code,#sector+cluster+name,#value+funding+required+usd,#value+funding+total+usd,#value+funding+pct
+KEN,1137,Kenya Drought Response Plan 2023,FKEN23,1/1/2023,12/31/2023,2023,26480,Coordination and support services,2344227,588785,25
+KEN,1137,Kenya Drought Response Plan 2023,FKEN23,1/1/2023,12/31/2023,2023,2,Early Recovery,,98902,
+KEN,1137,Kenya Drought Response Plan 2023,FKEN23,1/1/2023,12/31/2023,2023,3,Education,68300000,17221662,25
+KEN,1137,Kenya Drought Response Plan 2023,FKEN23,1/1/2023,12/31/2023,2023,4,Emergency Shelter and NFI,18600000,7646267,41
+KEN,1137,Kenya Drought Response Plan 2023,FKEN23,1/1/2023,12/31/2023,2023,6,Food Security,122336241,97831982,80
+KEN,1137,Kenya Drought Response Plan 2023,FKEN23,1/1/2023,12/31/2023,2023,7,Health,63515686,16564209,26
+KEN,1137,Kenya Drought Response Plan 2023,FKEN23,1/1/2023,12/31/2023,2023,26479,Multi-sector,3000000,116886785,3896
+KEN,1137,Kenya Drought Response Plan 2023,FKEN23,1/1/2023,12/31/2023,2023,9,Nutrition,78200000,46677385,60
+KEN,1137,Kenya Drought Response Plan 2023,FKEN23,1/1/2023,12/31/2023,2023,26481,Other,,164881,
+KEN,1137,Kenya Drought Response Plan 2023,FKEN23,1/1/2023,12/31/2023,2023,10,Protection,1632000,5812603,356
+KEN,1137,Kenya Drought Response Plan 2023,FKEN23,1/1/2023,12/31/2023,2023,12,Protection - Child Protection,18284000,7024986,38
+KEN,1137,Kenya Drought Response Plan 2023,FKEN23,1/1/2023,12/31/2023,2023,13,Protection - Gender-Based Violence,17437996,4167411,24
+KEN,1137,Kenya Drought Response Plan 2023,FKEN23,1/1/2023,12/31/2023,2023,14,"Protection - Housing, Land and Property",,1119994,
+KEN,1137,Kenya Drought Response Plan 2023,FKEN23,1/1/2023,12/31/2023,2023,11,Water Sanitation Hygiene,58175074,37427784,64
+KEN,1137,Kenya Drought Response Plan 2023,FKEN23,1/1/2023,12/31/2023,2023,,Not specified,,906330,
+KEN,1137,Kenya Drought Response Plan 2023,FKEN23,1/1/2023,12/31/2023,2023,,Multiple clusters/sectors (shared),,10381498,
+KEN,1105,Kenya Drought Flash Appeal 2022,FKEN22,1/1/2022,10/31/2022,2022,26480,Coordination and support services,300000,5458489,1819
+KEN,1105,Kenya Drought Flash Appeal 2022,FKEN22,1/1/2022,10/31/2022,2022,3,Education,32500000,3169041,10
+KEN,1105,Kenya Drought Flash Appeal 2022,FKEN22,1/1/2022,10/31/2022,2022,4,Emergency Shelter and NFI,,134749,
+KEN,1105,Kenya Drought Flash Appeal 2022,FKEN22,1/1/2022,10/31/2022,2022,6,Food Security,100556862,97463959,97
+KEN,1105,Kenya Drought Flash Appeal 2022,FKEN22,1/1/2022,10/31/2022,2022,7,Health,26600000,6647392,25
+KEN,1105,Kenya Drought Flash Appeal 2022,FKEN22,1/1/2022,10/31/2022,2022,26479,Multi-sector,3652480,8395738,230
+KEN,1105,Kenya Drought Flash Appeal 2022,FKEN22,1/1/2022,10/31/2022,2022,9,Nutrition,66194668,43626100,66
+KEN,1105,Kenya Drought Flash Appeal 2022,FKEN22,1/1/2022,10/31/2022,2022,10,Protection,,258500,
+KEN,1105,Kenya Drought Flash Appeal 2022,FKEN22,1/1/2022,10/31/2022,2022,12,Protection - Child Protection,11192775,1100526,10
+KEN,1105,Kenya Drought Flash Appeal 2022,FKEN22,1/1/2022,10/31/2022,2022,13,Protection - Gender-Based Violence,2830260,456000,16
+KEN,1105,Kenya Drought Flash Appeal 2022,FKEN22,1/1/2022,10/31/2022,2022,11,Water Sanitation Hygiene,45814542,12906951,28
+KEN,1105,Kenya Drought Flash Appeal 2022,FKEN22,1/1/2022,10/31/2022,2022,,Not specified,,678136,
+KEN,1105,Kenya Drought Flash Appeal 2022,FKEN22,1/1/2022,10/31/2022,2022,,Multiple clusters/sectors (shared),,11261892,
+KEN,1073,Kenya Drought Flash Appeal 2021,FKEN21,10/1/2021,12/31/2021,2021,26480,Coordination and support services,38222,,
+KEN,1073,Kenya Drought Flash Appeal 2021,FKEN21,10/1/2021,12/31/2021,2021,2,Early Recovery,,0,
+KEN,1073,Kenya Drought Flash Appeal 2021,FKEN21,10/1/2021,12/31/2021,2021,3,Education,1531377,1874725,122
+KEN,1073,Kenya Drought Flash Appeal 2021,FKEN21,10/1/2021,12/31/2021,2021,6,Food Security,29669828,5660510,19
+KEN,1073,Kenya Drought Flash Appeal 2021,FKEN21,10/1/2021,12/31/2021,2021,7,Health,4591413,1961450,43
+KEN,1073,Kenya Drought Flash Appeal 2021,FKEN21,10/1/2021,12/31/2021,2021,26479,Multi-sector,3652480,210011,6
+KEN,1073,Kenya Drought Flash Appeal 2021,FKEN21,10/1/2021,12/31/2021,2021,9,Nutrition,19052927,4873774,26
+KEN,1073,Kenya Drought Flash Appeal 2021,FKEN21,10/1/2021,12/31/2021,2021,26481,Other,,144128,
+KEN,1073,Kenya Drought Flash Appeal 2021,FKEN21,10/1/2021,12/31/2021,2021,10,Protection,55795,0,0
+KEN,1073,Kenya Drought Flash Appeal 2021,FKEN21,10/1/2021,12/31/2021,2021,12,Protection - Child Protection,654917,1019790,156
+KEN,1073,Kenya Drought Flash Appeal 2021,FKEN21,10/1/2021,12/31/2021,2021,13,Protection - Gender-Based Violence,344200,261984,76
+KEN,1073,Kenya Drought Flash Appeal 2021,FKEN21,10/1/2021,12/31/2021,2021,14,"Protection - Housing, Land and Property",,0,
+KEN,1073,Kenya Drought Flash Appeal 2021,FKEN21,10/1/2021,12/31/2021,2021,11,Water Sanitation Hygiene,10158121,6533058,64
+KEN,1073,Kenya Drought Flash Appeal 2021,FKEN21,10/1/2021,12/31/2021,2021,,Not specified,,1244431,
+KEN,1073,Kenya Drought Flash Appeal 2021,FKEN21,10/1/2021,12/31/2021,2021,,Multiple clusters/sectors (shared),,5751634,
+KEN,1000,Kenya Intersectoral COVID-19 Response Plan 2020,OKEN20,1/5/2020,12/31/2020,2020,26480,Coordination and support services,6933180,,
+KEN,1000,Kenya Intersectoral COVID-19 Response Plan 2020,OKEN20,1/5/2020,12/31/2020,2020,2,Early Recovery,,0,
+KEN,1000,Kenya Intersectoral COVID-19 Response Plan 2020,OKEN20,1/5/2020,12/31/2020,2020,3,Education,23741993,2897372,12
+KEN,1000,Kenya Intersectoral COVID-19 Response Plan 2020,OKEN20,1/5/2020,12/31/2020,2020,6,Food Security,94779832,21216052,22
+KEN,1000,Kenya Intersectoral COVID-19 Response Plan 2020,OKEN20,1/5/2020,12/31/2020,2020,7,Health,56489308,8352242,15
+KEN,1000,Kenya Intersectoral COVID-19 Response Plan 2020,OKEN20,1/5/2020,12/31/2020,2020,26479,Multi-sector,34545000,2380640,7
+KEN,1000,Kenya Intersectoral COVID-19 Response Plan 2020,OKEN20,1/5/2020,12/31/2020,2020,9,Nutrition,22615294,0,0
+KEN,1000,Kenya Intersectoral COVID-19 Response Plan 2020,OKEN20,1/5/2020,12/31/2020,2020,10,Protection,,0,
+KEN,1000,Kenya Intersectoral COVID-19 Response Plan 2020,OKEN20,1/5/2020,12/31/2020,2020,12,Protection - Child Protection,2719250,0,0
+KEN,1000,Kenya Intersectoral COVID-19 Response Plan 2020,OKEN20,1/5/2020,12/31/2020,2020,13,Protection - Gender-Based Violence,1452000,,
+KEN,1000,Kenya Intersectoral COVID-19 Response Plan 2020,OKEN20,1/5/2020,12/31/2020,2020,11,Water Sanitation Hygiene,11594827,10305986,89
+KEN,1000,Kenya Intersectoral COVID-19 Response Plan 2020,OKEN20,1/5/2020,12/31/2020,2020,,Not specified,,17573861,
+KEN,1000,Kenya Intersectoral COVID-19 Response Plan 2020,OKEN20,1/5/2020,12/31/2020,2020,,Multiple clusters/sectors (shared),,2298750,
+KEN,589,Kenya Flash Appeal 2017,FKEN17,2/10/2017,11/30/2017,2017,26512,Agriculture,,1640499,
+KEN,589,Kenya Flash Appeal 2017,FKEN17,2/10/2017,11/30/2017,2017,26480,Coordination and support services,100000,136274,136
+KEN,589,Kenya Flash Appeal 2017,FKEN17,2/10/2017,11/30/2017,2017,2,Early Recovery,4500000,,
+KEN,589,Kenya Flash Appeal 2017,FKEN17,2/10/2017,11/30/2017,2017,3,Education,1757920,2279646,130
+KEN,589,Kenya Flash Appeal 2017,FKEN17,2/10/2017,11/30/2017,2017,6,Food Security,56531341,83513096,148
+KEN,589,Kenya Flash Appeal 2017,FKEN17,2/10/2017,11/30/2017,2017,7,Health,4331819,1627619,38
+KEN,589,Kenya Flash Appeal 2017,FKEN17,2/10/2017,11/30/2017,2017,9,Nutrition,29751568,41800199,140
+KEN,589,Kenya Flash Appeal 2017,FKEN17,2/10/2017,11/30/2017,2017,10,Protection,5290500,1240941,23
+KEN,589,Kenya Flash Appeal 2017,FKEN17,2/10/2017,11/30/2017,2017,11,Water Sanitation Hygiene,17602111,12510677,71
+KEN,589,Kenya Flash Appeal 2017,FKEN17,2/10/2017,11/30/2017,2017,,Not specified,,12938562,
+KEN,589,Kenya Flash Appeal 2017,FKEN17,2/10/2017,11/30/2017,2017,,Multiple clusters/sectors (shared),,0,
+KEN,406,Kenya Emergency Humanitarian Response Plan 2013,CKEN13,1/1/2013,12/31/2013,2013,26512,Agriculture,14800345,3101511,21
+KEN,406,Kenya Emergency Humanitarian Response Plan 2013,CKEN13,1/1/2013,12/31/2013,2013,26480,Coordination and support services,11236961,3333604,30
+KEN,406,Kenya Emergency Humanitarian Response Plan 2013,CKEN13,1/1/2013,12/31/2013,2013,2,Early Recovery,20685095,1218871,6
+KEN,406,Kenya Emergency Humanitarian Response Plan 2013,CKEN13,1/1/2013,12/31/2013,2013,3,Education,6497235,1684988,26
+KEN,406,Kenya Emergency Humanitarian Response Plan 2013,CKEN13,1/1/2013,12/31/2013,2013,4,Emergency Shelter and NFI,9545757,1579502,17
+KEN,406,Kenya Emergency Humanitarian Response Plan 2013,CKEN13,1/1/2013,12/31/2013,2013,6,Food Security,263813030,226570495,86
+KEN,406,Kenya Emergency Humanitarian Response Plan 2013,CKEN13,1/1/2013,12/31/2013,2013,7,Health,46774928,29020825,62
+KEN,406,Kenya Emergency Humanitarian Response Plan 2013,CKEN13,1/1/2013,12/31/2013,2013,26479,Multi-sector,252795134,97939101,39
+KEN,406,Kenya Emergency Humanitarian Response Plan 2013,CKEN13,1/1/2013,12/31/2013,2013,10,Protection,11007170,3471381,32
+KEN,406,Kenya Emergency Humanitarian Response Plan 2013,CKEN13,1/1/2013,12/31/2013,2013,11,Water Sanitation Hygiene,26156127,3243751,12
+KEN,406,Kenya Emergency Humanitarian Response Plan 2013,CKEN13,1/1/2013,12/31/2013,2013,,Not specified,,1298718,
+KEN,406,Kenya Emergency Humanitarian Response Plan 2013,CKEN13,1/1/2013,12/31/2013,2013,,Multiple clusters/sectors (shared),,0,
+KEN,373,2012+ Kenya Emergency Humanitarian Response Plan,CKEN12,1/1/2012,12/31/2012,2012,26512,Agriculture,35477768,9455741,27
+KEN,373,2012+ Kenya Emergency Humanitarian Response Plan,CKEN12,1/1/2012,12/31/2012,2012,26480,Coordination and support services,4285199,3430796,80
+KEN,373,2012+ Kenya Emergency Humanitarian Response Plan,CKEN12,1/1/2012,12/31/2012,2012,2,Early Recovery,23220953,2818142,12
+KEN,373,2012+ Kenya Emergency Humanitarian Response Plan,CKEN12,1/1/2012,12/31/2012,2012,3,Education,9959424,6448403,65
+KEN,373,2012+ Kenya Emergency Humanitarian Response Plan,CKEN12,1/1/2012,12/31/2012,2012,6,Food Security,384706314,370808314,96
+KEN,373,2012+ Kenya Emergency Humanitarian Response Plan,CKEN12,1/1/2012,12/31/2012,2012,7,Health,44273129,23988195,54
+KEN,373,2012+ Kenya Emergency Humanitarian Response Plan,CKEN12,1/1/2012,12/31/2012,2012,26479,Multi-sector,254671033,111658477,44
+KEN,373,2012+ Kenya Emergency Humanitarian Response Plan,CKEN12,1/1/2012,12/31/2012,2012,10,Protection,12286247,2313356,19
+KEN,373,2012+ Kenya Emergency Humanitarian Response Plan,CKEN12,1/1/2012,12/31/2012,2012,11,Water Sanitation Hygiene,27927573,6475555,23
+KEN,373,2012+ Kenya Emergency Humanitarian Response Plan,CKEN12,1/1/2012,12/31/2012,2012,,Not specified,,7626162,
+KEN,373,2012+ Kenya Emergency Humanitarian Response Plan,CKEN12,1/1/2012,12/31/2012,2012,,Multiple clusters/sectors (shared),,0,
+KEN,353,2011+ Kenya Emergency Humanitarian Response Plan,CKEN1113,1/1/2011,12/31/2013,2011,26512,Agriculture,33488550,8101399,24
+KEN,353,2011+ Kenya Emergency Humanitarian Response Plan,CKEN1113,1/1/2011,12/31/2013,2011,26480,Coordination and support services,2593169,2188590,84
+KEN,353,2011+ Kenya Emergency Humanitarian Response Plan,CKEN1113,1/1/2011,12/31/2013,2011,2,Early Recovery,8848849,3831408,43
+KEN,353,2011+ Kenya Emergency Humanitarian Response Plan,CKEN1113,1/1/2011,12/31/2013,2011,3,Education,6229360,1000428,16
+KEN,353,2011+ Kenya Emergency Humanitarian Response Plan,CKEN1113,1/1/2011,12/31/2013,2011,6,Food Security,328088703,293178229,89
+KEN,353,2011+ Kenya Emergency Humanitarian Response Plan,CKEN1113,1/1/2011,12/31/2013,2011,7,Health,90139371,53320691,59
+KEN,353,2011+ Kenya Emergency Humanitarian Response Plan,CKEN1113,1/1/2011,12/31/2013,2011,26479,Multi-sector,235827728,143225516,61
+KEN,353,2011+ Kenya Emergency Humanitarian Response Plan,CKEN1113,1/1/2011,12/31/2013,2011,10,Protection,10974691,918297,8
+KEN,353,2011+ Kenya Emergency Humanitarian Response Plan,CKEN1113,1/1/2011,12/31/2013,2011,11,Water Sanitation Hygiene,25627729,12236600,48
+KEN,353,2011+ Kenya Emergency Humanitarian Response Plan,CKEN1113,1/1/2011,12/31/2013,2011,,Not specified,,14437761,
+KEN,353,2011+ Kenya Emergency Humanitarian Response Plan,CKEN1113,1/1/2011,12/31/2013,2011,,Multiple clusters/sectors (shared),,0,
+KEN,326,Kenya Emergency Humanitarian Response Plan 2010,CKEN10,1/1/2010,12/31/2010,2010,26512,Agriculture,22461906,6010116,27
+KEN,326,Kenya Emergency Humanitarian Response Plan 2010,CKEN10,1/1/2010,12/31/2010,2010,26480,Coordination and support services,5032136,3683818,73
+KEN,326,Kenya Emergency Humanitarian Response Plan 2010,CKEN10,1/1/2010,12/31/2010,2010,2,Early Recovery,7956285,1968266,25
+KEN,326,Kenya Emergency Humanitarian Response Plan 2010,CKEN10,1/1/2010,12/31/2010,2010,3,Education,3842628,593203,15
+KEN,326,Kenya Emergency Humanitarian Response Plan 2010,CKEN10,1/1/2010,12/31/2010,2010,4,Emergency Shelter and NFI,7890944,5954420,75
+KEN,326,Kenya Emergency Humanitarian Response Plan 2010,CKEN10,1/1/2010,12/31/2010,2010,6,Food Security,272199899,246992640,91
+KEN,326,Kenya Emergency Humanitarian Response Plan 2010,CKEN10,1/1/2010,12/31/2010,2010,7,Health,55013391,34043992,62
+KEN,326,Kenya Emergency Humanitarian Response Plan 2010,CKEN10,1/1/2010,12/31/2010,2010,26479,Multi-sector,202129327,89458102,44
+KEN,326,Kenya Emergency Humanitarian Response Plan 2010,CKEN10,1/1/2010,12/31/2010,2010,10,Protection,5387962,1319882,24
+KEN,326,Kenya Emergency Humanitarian Response Plan 2010,CKEN10,1/1/2010,12/31/2010,2010,11,Water Sanitation Hygiene,21630075,8446634,39
+KEN,326,Kenya Emergency Humanitarian Response Plan 2010,CKEN10,1/1/2010,12/31/2010,2010,,Not specified,,817479,
+KEN,326,Kenya Emergency Humanitarian Response Plan 2010,CKEN10,1/1/2010,12/31/2010,2010,,Multiple clusters/sectors (shared),,0,
+KEN,302,Kenya Emergency Humanitarian Response Plan 2009,CKEN09,1/1/2009,12/31/2009,2009,26512,Agriculture,259461,5105355,1968
+KEN,302,Kenya Emergency Humanitarian Response Plan 2009,CKEN09,1/1/2009,12/31/2009,2009,26480,Coordination and support services,700000,1367574,195
+KEN,302,Kenya Emergency Humanitarian Response Plan 2009,CKEN09,1/1/2009,12/31/2009,2009,2,Early Recovery,,3652056,
+KEN,302,Kenya Emergency Humanitarian Response Plan 2009,CKEN09,1/1/2009,12/31/2009,2009,3,Education,,1749000,
+KEN,302,Kenya Emergency Humanitarian Response Plan 2009,CKEN09,1/1/2009,12/31/2009,2009,4,Emergency Shelter and NFI,,22273089,
+KEN,302,Kenya Emergency Humanitarian Response Plan 2009,CKEN09,1/1/2009,12/31/2009,2009,6,Food Security,256599209,258572529,101
+KEN,302,Kenya Emergency Humanitarian Response Plan 2009,CKEN09,1/1/2009,12/31/2009,2009,7,Health,677002,14270003,2108
+KEN,302,Kenya Emergency Humanitarian Response Plan 2009,CKEN09,1/1/2009,12/31/2009,2009,26479,Multi-sector,197449750,153833767,78
+KEN,302,Kenya Emergency Humanitarian Response Plan 2009,CKEN09,1/1/2009,12/31/2009,2009,9,Nutrition,4947232,4473670,90
+KEN,302,Kenya Emergency Humanitarian Response Plan 2009,CKEN09,1/1/2009,12/31/2009,2009,10,Protection,0,4653989,
+KEN,302,Kenya Emergency Humanitarian Response Plan 2009,CKEN09,1/1/2009,12/31/2009,2009,11,Water Sanitation Hygiene,4007285,10889919,272
+KEN,302,Kenya Emergency Humanitarian Response Plan 2009,CKEN09,1/1/2009,12/31/2009,2009,,Not specified,,9504056,
+KEN,302,Kenya Emergency Humanitarian Response Plan 2009,CKEN09,1/1/2009,12/31/2009,2009,,Multiple clusters/sectors (shared),,0,
+KEN,271,Kenya Emergency Humanitarian Response Plan (Revised) 2008,FKEN08,1/1/2008,7/1/2008,2008,26512,Agriculture,12821000,2669155,21
+KEN,271,Kenya Emergency Humanitarian Response Plan (Revised) 2008,FKEN08,1/1/2008,7/1/2008,2008,1,Camp Coordination / Management,5094442,2766542,54
+KEN,271,Kenya Emergency Humanitarian Response Plan (Revised) 2008,FKEN08,1/1/2008,7/1/2008,2008,26480,Coordination and support services,2527221,1425492,56
+KEN,271,Kenya Emergency Humanitarian Response Plan (Revised) 2008,FKEN08,1/1/2008,7/1/2008,2008,2,Early Recovery,19668273,6912648,35
+KEN,271,Kenya Emergency Humanitarian Response Plan (Revised) 2008,FKEN08,1/1/2008,7/1/2008,2008,3,Education,5814829,1571403,27
+KEN,271,Kenya Emergency Humanitarian Response Plan (Revised) 2008,FKEN08,1/1/2008,7/1/2008,2008,4,Emergency Shelter and NFI,23544473,10783893,46
+KEN,271,Kenya Emergency Humanitarian Response Plan (Revised) 2008,FKEN08,1/1/2008,7/1/2008,2008,5,Emergency Telecommunications,897230,541724,60
+KEN,271,Kenya Emergency Humanitarian Response Plan (Revised) 2008,FKEN08,1/1/2008,7/1/2008,2008,6,Food Security,99969328,86106659,86
+KEN,271,Kenya Emergency Humanitarian Response Plan (Revised) 2008,FKEN08,1/1/2008,7/1/2008,2008,7,Health,12170899,7416170,61
+KEN,271,Kenya Emergency Humanitarian Response Plan (Revised) 2008,FKEN08,1/1/2008,7/1/2008,2008,8,Logistics,636920,453674,71
+KEN,271,Kenya Emergency Humanitarian Response Plan (Revised) 2008,FKEN08,1/1/2008,7/1/2008,2008,26479,Multi-sector,6301215,5901215,94
+KEN,271,Kenya Emergency Humanitarian Response Plan (Revised) 2008,FKEN08,1/1/2008,7/1/2008,2008,10,Protection,7723681,4858244,63
+KEN,271,Kenya Emergency Humanitarian Response Plan (Revised) 2008,FKEN08,1/1/2008,7/1/2008,2008,11,Water Sanitation Hygiene,10398890,4920037,47
+KEN,271,Kenya Emergency Humanitarian Response Plan (Revised) 2008,FKEN08,1/1/2008,7/1/2008,2008,,Not specified,,569013,
+KEN,271,Kenya Emergency Humanitarian Response Plan (Revised) 2008,FKEN08,1/1/2008,7/1/2008,2008,,Multiple clusters/sectors (shared),,0,
+KEN,218,Kenya 2006,FKEN0607,10/16/2006,4/15/2007,2006,26480,Coordination and support services,3459335,2129568,62
+KEN,218,Kenya 2006,FKEN0607,10/16/2006,4/15/2007,2006,3,Education,617152,287579,47
+KEN,218,Kenya 2006,FKEN0607,10/16/2006,4/15/2007,2006,4,Emergency Shelter and NFI,2723078,2016521,74
+KEN,218,Kenya 2006,FKEN0607,10/16/2006,4/15/2007,2006,6,Food Security,19279994,28967467,150
+KEN,218,Kenya 2006,FKEN0607,10/16/2006,4/15/2007,2006,7,Health,5165306,1006055,19
+KEN,218,Kenya 2006,FKEN0607,10/16/2006,4/15/2007,2006,10,Protection,1404730,862381,61
+KEN,218,Kenya 2006,FKEN0607,10/16/2006,4/15/2007,2006,11,Water Sanitation Hygiene,2602680,982351,38
+KEN,218,Kenya 2006,FKEN0607,10/16/2006,4/15/2007,2006,,Not specified,,662252,
+KEN,218,Kenya 2006,FKEN0607,10/16/2006,4/15/2007,2006,,Multiple clusters/sectors (shared),,0,
+KEN,234,Kenya: 2006 November Floods,FKEN06,11/22/2006,12/31/2006,2006,26512,Agriculture,6600000,2220412,34
+KEN,234,Kenya: 2006 November Floods,FKEN06,11/22/2006,12/31/2006,2006,26480,Coordination and support services,610000,,
+KEN,234,Kenya: 2006 November Floods,FKEN06,11/22/2006,12/31/2006,2006,3,Education,400000,,
+KEN,234,Kenya: 2006 November Floods,FKEN06,11/22/2006,12/31/2006,2006,4,Emergency Shelter and NFI,6000000,,
+KEN,234,Kenya: 2006 November Floods,FKEN06,11/22/2006,12/31/2006,2006,6,Food Security,19276656,28303756,147
+KEN,234,Kenya: 2006 November Floods,FKEN06,11/22/2006,12/31/2006,2006,7,Health,7655419,2299340,30
+KEN,234,Kenya: 2006 November Floods,FKEN06,11/22/2006,12/31/2006,2006,8,Logistics,6000000,,
+KEN,234,Kenya: 2006 November Floods,FKEN06,11/22/2006,12/31/2006,2006,10,Protection,578690,178690,31
+KEN,234,Kenya: 2006 November Floods,FKEN06,11/22/2006,12/31/2006,2006,11,Water Sanitation Hygiene,6623874,1623874,25
+KEN,234,Kenya: 2006 November Floods,FKEN06,11/22/2006,12/31/2006,2006,,Not specified,,717312,
+KEN,234,Kenya: 2006 November Floods,FKEN06,11/22/2006,12/31/2006,2006,,Multiple clusters/sectors (shared),,0,
+KEN,157,Kenya  2004,FKEN04,7/1/2004,12/31/2004,2004,26512,Agriculture,3625000,70000,2
+KEN,157,Kenya  2004,FKEN04,7/1/2004,12/31/2004,2004,26480,Coordination and support services,157214,,
+KEN,157,Kenya  2004,FKEN04,7/1/2004,12/31/2004,2004,3,Education,1635000,,
+KEN,157,Kenya  2004,FKEN04,7/1/2004,12/31/2004,2004,6,Food Security,67600000,46045017,68
+KEN,157,Kenya  2004,FKEN04,7/1/2004,12/31/2004,2004,7,Health,5861921,,
+KEN,157,Kenya  2004,FKEN04,7/1/2004,12/31/2004,2004,11,Water Sanitation Hygiene,4370192,,
+KEN,157,Kenya  2004,FKEN04,7/1/2004,12/31/2004,2004,,Not specified,,,
+KEN,157,Kenya  2004,FKEN04,7/1/2004,12/31/2004,2004,,Multiple clusters/sectors (shared),,0,
+KEN,93,Kenya Drought Donor Alert 2002,OKEN02,1/1/2002,12/31/2002,2002,26512,Agriculture,1988299,,
+KEN,93,Kenya Drought Donor Alert 2002,OKEN02,1/1/2002,12/31/2002,2002,26480,Coordination and support services,1281100,100000,8
+KEN,93,Kenya Drought Donor Alert 2002,OKEN02,1/1/2002,12/31/2002,2002,3,Education,2000000,,
+KEN,93,Kenya Drought Donor Alert 2002,OKEN02,1/1/2002,12/31/2002,2002,6,Food Security,39090194,16156127,41
+KEN,93,Kenya Drought Donor Alert 2002,OKEN02,1/1/2002,12/31/2002,2002,7,Health,5385030,2314525,43
+KEN,93,Kenya Drought Donor Alert 2002,OKEN02,1/1/2002,12/31/2002,2002,26479,Multi-sector,2234500,1321145,59
+KEN,93,Kenya Drought Donor Alert 2002,OKEN02,1/1/2002,12/31/2002,2002,11,Water Sanitation Hygiene,7503675,,
+KEN,93,Kenya Drought Donor Alert 2002,OKEN02,1/1/2002,12/31/2002,2002,,Not specified,,,
+KEN,93,Kenya Drought Donor Alert 2002,OKEN02,1/1/2002,12/31/2002,2002,,Multiple clusters/sectors (shared),,0,
+KEN,71,Kenya Drought 2001,OKEN01,1/1/2001,12/31/2001,2001,26512,Agriculture,4299152,246750,6
+KEN,71,Kenya Drought 2001,OKEN01,1/1/2001,12/31/2001,2001,26480,Coordination and support services,3546226,150000,4
+KEN,71,Kenya Drought 2001,OKEN01,1/1/2001,12/31/2001,2001,3,Education,3892900,,
+KEN,71,Kenya Drought 2001,OKEN01,1/1/2001,12/31/2001,2001,6,Food Security,161648523,107135103,66
+KEN,71,Kenya Drought 2001,OKEN01,1/1/2001,12/31/2001,2001,7,Health,5690800,4957985,87
+KEN,71,Kenya Drought 2001,OKEN01,1/1/2001,12/31/2001,2001,11,Water Sanitation Hygiene,3000000,2023454,67
+KEN,71,Kenya Drought 2001,OKEN01,1/1/2001,12/31/2001,2001,,Not specified,,,
+KEN,71,Kenya Drought 2001,OKEN01,1/1/2001,12/31/2001,2001,,Multiple clusters/sectors (shared),,0,

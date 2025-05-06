@@ -1,0 +1,4 @@
+countryCode,id,name,code,typeId,typeName,startDate,endDate,year,requirements,funding,covidFunding,covidPercentageOfFunding
+#country+code,#activity+appeal+id+fts_internal,#activity+appeal+name,#activity+appeal+id+external,#activity+appeal+type+id+fts_internal,#activity+appeal+type+name,#date+start,#date+end,#date+year,#value+funding+required+usd,#value+funding+total+usd,#value+funding+covid+usd,#value+funding+covid+pct
+KEN,947,South Sudan Regional Refugee Response Plan 2020,RETHKENUGA20,111,Regional response plan,1/1/2020,12/31/2020,2020,,20360944,1868458,9
+KEN,1000,Kenya Intersectoral COVID-19 Response Plan 2020,OKEN20,1614,Other,1/5/2020,12/31/2020,2020,254870684,65024903,62105472,96
